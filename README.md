@@ -134,9 +134,3 @@ However, it plays a critical role in:
 Vellore Institute of Technology
 
 ---
-
-## ⭐ If you found this useful
-
-Give this repo a ⭐
-
----
