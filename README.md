@@ -22,7 +22,7 @@ NASA POWER provides **satellite-based weather data**, widely used in climate, ag
 
 ## 📊 Dataset Details
 
-* 📍 Location: Hyderabad, India
+* 📍 Location: Chennai, India
 * 📅 Time Period: 1984 – 2025
 * 📡 Source: NASA Langley Research Center
 
